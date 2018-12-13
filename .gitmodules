@@ -16,3 +16,6 @@
 [submodule "cryptokitties-bounty"]
 	path = cryptokitties-contracts
 	url = https://github.com/dapperlabs/cryptokitties-bounty
+[submodule "origin"]
+	path = origin
+	url = https://github.com/OriginProtocol/origin
