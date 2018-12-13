@@ -19,3 +19,9 @@
 [submodule "origin"]
 	path = origin
 	url = https://github.com/OriginProtocol/origin
+[submodule "augur-core"]
+	path = augur-contracts
+	url = https://github.com/AugurProject/augur-core
+[submodule "augur.js"]
+	path = augur.js
+	url = https://github.com/AugurProject/augur.js
