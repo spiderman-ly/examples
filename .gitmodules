@@ -1,0 +1,18 @@
+[submodule "crowdsale-contracts"]
+	path = crowdsale-contracts
+	url = https://github.com/Lunyr/crowdsale-contracts
+[submodule "contracts"]
+	path = bancor-contracts
+	url = https://github.com/bancorprotocol/contracts
+[submodule "experimental"]
+	path = dharma-contracts
+	url = https://github.com/dharmaprotocol/experimental
+[submodule "dharma.js"]
+	path = dharma.js
+	url = https://github.com/dharmaprotocol/dharma.js
+[submodule "0x-monorepo"]
+	path = 0x
+	url = https://github.com/0xProject/0x-monorepo
+[submodule "cryptokitties-bounty"]
+	path = cryptokitties-contracts
+	url = https://github.com/dapperlabs/cryptokitties-bounty
