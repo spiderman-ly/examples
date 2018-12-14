@@ -25,3 +25,39 @@
 [submodule "augur.js"]
 	path = augur.js
 	url = https://github.com/AugurProject/augur.js
+[submodule "golem-contracts"]
+	path = golem-contracts
+	url = https://github.com/golemfactory/golem-contracts
+[submodule "aragonOS"]
+	path = aragon-contracts
+	url = https://github.com/aragon/aragonOS
+[submodule "ethereum-api"]
+	path = oraclize-contracts
+	url = https://github.com/oraclize/ethereum-api
+[submodule "district0x-network-token"]
+	path = district0x-contracts
+	url = https://github.com/district0x/district0x-network-token
+[submodule "cryptopunks"]
+	path = cryptopunks-contracts
+	url = https://github.com/larvalabs/cryptopunks
+[submodule "smart-contracts"]
+	path = kyber-contracts
+	url = https://github.com/KyberNetwork/smart-contracts
+[submodule "MARKETProtocol"]
+	path = market-contracts
+	url = https://github.com/MARKETProtocol/MARKETProtocol
+[submodule "ico"]
+	path = tokenmarket-contracts
+	url = https://github.com/TokenMarketNet/ico
+[submodule "ethereum-libraries"]
+	path = modular-contracts
+	url = https://github.com/Modular-Network/ethereum-libraries
+[submodule "ethlance"]
+	path = ethlance-contracts
+	url = https://github.com/district0x/ethlance
+[submodule "not-so-smart-contracts"]
+	path = not-so-smart-contracts
+	url = https://github.com/trailofbits/not-so-smart-contracts
+[submodule "dappsys"]
+	path = dapphub-contracts
+	url = https://github.com/dapphub/dappsys
