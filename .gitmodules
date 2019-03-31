@@ -67,3 +67,6 @@
 [submodule "openzeppelin-solidity"]
 	path = openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-solidity
+[submodule "protocol"]
+	path = hydro-contracts
+	url = https://github.com/HydroProtocol/protocol
